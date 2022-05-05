@@ -51,8 +51,8 @@ header .navbar {
     margin: 10px 10px; }
   .showcase img {
     width: 30%;
-    margin: 10px;
-    padding: 10px; }
+    margin: 5px;
+    padding: 5px; }
 
 * {
   margin: 0;
@@ -61,7 +61,7 @@ header .navbar {
 
 footer {
   background-color: black;
-  height: 500px; }
+  height: 450px; }
   footer p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
